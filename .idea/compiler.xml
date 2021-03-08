@@ -9,9 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter11" />
         <module name="chapter10" />
-        <module name="chapter9" />
-        <module name="chapter13" />
         <module name="chapter12" />
+        <module name="chapter13" />
+        <module name="chapter9" />
       </profile>
     </annotationProcessing>
   </component>
